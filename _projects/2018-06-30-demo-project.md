@@ -2,6 +2,7 @@
 title: 'Causal Inference'
 subtitle: 'Estimation of Treatment Effects'
 description: Estimation of Treatment Effects
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
