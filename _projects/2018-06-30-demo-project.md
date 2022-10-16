@@ -15,10 +15,10 @@ Estimation of Treatment Effects
 
 You can create lists:
 
-* 1. Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
-* 2. Estimation of Endogenous Treatment Effects with Social Interactions [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Network_Effects.pdf)
-* 3. A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Education.pdf)
-* 4. The Effects of Political Persecution on Education in China [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Political_Persecution.pdf)
+* Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
+* Estimation of Endogenous Treatment Effects with Social Interactions [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Network_Effects.pdf)
+* A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Education.pdf)
+* The Effects of Political Persecution on Education in China [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Political_Persecution.pdf)
 
 
 
