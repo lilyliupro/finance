@@ -1,7 +1,7 @@
 ---
-title: 'Causal Inference'
-subtitle: 'Estimation of Treatment Effects'
-description: Estimation of Treatment Effects
+title: 'Econometric Theory'
+subtitle: 'Econometric Theory'
+description: Econometric Theory
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
@@ -15,10 +15,9 @@ Estimation of Treatment Effects
 
 You can create lists:
 
-* 1. Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
-* 2. Estimation of Endogenous Treatment Effects with Social Interactions [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Network_Effects.pdf)
-* 3. A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Education.pdf)
-* 4. The Effects of Political Persecution on Education in China [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Political_Persecution.pdf)
+* A Vuong Test for Panel and Network Data Models with Fixed Effects [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Selection_Test.pdf)
+* Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
+* Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
 
 
 
