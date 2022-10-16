@@ -7,4 +7,4 @@ featured_image: /images/demo/about.jpg
 
 ## CV
 
-* My CV [Download CV here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
+* My CV [Download CV here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/CV.pdf)
