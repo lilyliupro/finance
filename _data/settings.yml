@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Academics'
-      url: '/'
+      url: '/2018-06-30-demo-project.md'
     - title: 'Projects'
       url: '/blog/'
     - title: 'About'
