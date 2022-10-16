@@ -2,7 +2,13 @@
 title: 'Causal Inference'
 subtitle: 'Estimation of Treatment Effects'
 description: Estimation of Treatment Effects
+---
+
+![](/images/demo/demo-landscape.jpg)
+
 ## Demo content
+
+
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
