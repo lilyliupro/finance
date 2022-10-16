@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Academics'
-      url: '/'
+      url: '/_projects/'
     - title: 'Projects'
       url: '/blog/'
     - title: 'About'
