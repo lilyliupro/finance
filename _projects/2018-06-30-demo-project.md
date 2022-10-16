@@ -2,9 +2,9 @@
 title: 'Research Papers'
 subtitle: 'Econometrics and Applied Economics'
 description: Estimation of Treatment Effects
-featured_image: '/images/demo/demo-landscape.jpg'
+featured_image: '/images/demo/demo-square.jpg'
 ---
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-square.jpg)
 
 ## Causal Inference
 
