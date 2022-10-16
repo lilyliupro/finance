@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Academics'
       url: '/_projects/2018-06-30-demo-project.md'
-      url: '/_projects/2018-06-30-demo-project.md'
+      url: '/_projects/appdemo-project.md'
     - title: 'Projects'
       url: '/blog/'
     - title: 'About'
