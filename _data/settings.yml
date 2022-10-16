@@ -14,8 +14,7 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+  
 
 footer_settings:
   footer_tagline: Lily Liu's personal website.
