@@ -12,6 +12,13 @@ featured_image: '/images/demo/demo-square.jpg'
 
 
 Estimation of Treatment Effects
+
+You can create lists:
+
+Simple bulleted lists
+Like this one
+Are cool
+And:
 ---
 1. Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes
 [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
