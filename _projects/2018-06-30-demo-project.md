@@ -5,7 +5,7 @@ date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/My Papers/Bootstrap Validity.pdf'
 ---
-paperurl: 'http://lilyliu8262.github.io/My Papers/Bootstrap Validity.pdf'
+paperurl: 'http://lilyliu8262.github.io/Papers/Bootstrap.pdf'
 
 ## Demo content
 
