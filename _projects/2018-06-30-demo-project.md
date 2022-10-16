@@ -22,3 +22,8 @@ You can create lists:
 
 
 
+## Econometric Theory
+
+* A Vuong Test for Panel and Network Data Models with Fixed Effects [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Selection_Test.pdf)
+* Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
+* Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
