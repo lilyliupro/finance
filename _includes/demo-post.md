@@ -1,4 +1,4 @@
-## Demo content
+## Projects
 
 A/B Testing on Email Marketing Campaign (Python, A/B Test, Time Series)
 * Designed email multi-arm experiments to improve conversion rate by dividing users (≈ 500k) into 24 treatment groups
