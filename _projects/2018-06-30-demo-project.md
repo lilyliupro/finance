@@ -1,6 +1,6 @@
 ---
-title: 'Causal Inference'
-subtitle: 'Estimation of Treatment Effects'
+title: 'Research Papers'
+subtitle: 'Econometrics and Applied Economics'
 description: Estimation of Treatment Effects
 featured_image: '/images/demo/demo-square.jpg'
 ---
@@ -12,8 +12,6 @@ featured_image: '/images/demo/demo-square.jpg'
 
 
 Estimation of Treatment Effects
-
-You can create lists:
 
 * Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
 * Estimation of Endogenous Treatment Effects with Social Interactions [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Network_Effects.pdf)
