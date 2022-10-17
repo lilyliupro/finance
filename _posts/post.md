@@ -1,7 +1,5 @@
 ---
 title: 'Projects'
-subtitle: 'Projects'
-description: Projects
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
