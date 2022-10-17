@@ -6,7 +6,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ---
 ![](/images/demo/demo-square.jpg)
 
-## Causal Inference
+## Causal Inference and Machine Learning
 
 
 
@@ -19,7 +19,7 @@ Estimation of Treatment Effects
 
 
 
-## Econometric Theory
+## Econometric Theory on Panel and Network Data Models
 
 * A Vuong Test for Panel and Network Data Models with Fixed Effects [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Selection_Test.pdf)
 * Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models [Download paper here](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
