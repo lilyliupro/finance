@@ -25,4 +25,4 @@ Please click the name of the paper to download it.
 * [A Vuong Test for Panel and Network Data Models with Fixed Effects](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Selection_Test.pdf)
 * [Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
 * [Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
-![image](https://user-images.githubusercontent.com/115938445/196153322-09fdc773-d7ef-4690-a3eb-c7cac7a0e770.png)
+
