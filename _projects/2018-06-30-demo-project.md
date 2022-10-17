@@ -1,7 +1,7 @@
 ---
 title: 'Research Papers'
 subtitle: 'Econometrics and Applied Economics'
-description: Estimation of Treatment Effects
+description: My research focuses on causal inference, machine learning, and experimental design. I work on data structure models, including cross-sectional, panel, and network data. My current research combines machine learning algorithms with traditional econometric methods for estimating causal effects. Please click to see my research papers.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 ![](/images/demo/demo-square.jpg)
