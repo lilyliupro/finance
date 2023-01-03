@@ -25,3 +25,6 @@ Please click the name of the paper to download it.
 * [Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
 * [Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
 
+## PhD Dissertation
+* [Essays in Econometrics](https://github.com/Lilyliu8262/econ/blob/main/Papers/Essays%20in%20Econometrics.pdf)
+
