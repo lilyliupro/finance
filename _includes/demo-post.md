@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/work-01.jpg'
 ---
 
 ![](/images/demo/work-01.jpg)
