@@ -10,10 +10,10 @@ featured_image: '/images/demo/demo-square.jpg'
 
 Please click the name of the paper to download it.
 
-* [Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Rare_Events.pdf)
-* [Estimation of Endogenous Treatment Effects with Social Interactions](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Network_Effects.pdf)
-* [A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Education.pdf)
-* [The Effects of Political Persecution on Education in China](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Political_Persecution.pdf)
+* [Estimation of Average Treatment Effects for Massively Unbalanced Binary Outcomes](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Rare_Events.pdf)
+* [Estimation of Endogenous Treatment Effects with Social Interactions](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Network_Effects.pdf)
+* [A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Education.pdf)
+* [The Effects of Political Persecution on Education in China](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Political_Persecution.pdf)
 
 
 
@@ -21,13 +21,13 @@ Please click the name of the paper to download it.
 
 Please click the name of the paper to download it.
 
-* [A Vuong Test for Panel and Network Data Models with Fixed Effects](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Selection_Test.pdf)
-* [Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Jackknife.pdf)
-* [Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Papers/Bootstrap.pdf)
+* [A Vuong Test for Panel and Network Data Models with Fixed Effects](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Selection_Test.pdf)
+* [Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Jackknife.pdf)
+* [Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Bootstrap.pdf)
 
 ## PhD Dissertation
 
 
 Please click the name of the paper to download it.
 
-* [Essays in Econometrics](https://github.com/Lilyliu8262/econ/blob/main/Papers/Essays%20in%20Econometrics.pdf)
+* [Essays in Econometrics](https://github.com/Lilyliu8262/econ/blob/main/Paper/Essays%20in%20Econometrics.pdf)
