@@ -1,9 +1,13 @@
+
 ---
 title: 'Projects'
-featured_image: '/images/demo/work-01.jpg'
+subtitle: 'Machine Learning and Experimentation'
+description: My data projects are about machine learning and experimentation. Please click to see my projects.
+featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
-![](/images/demo/work-01.jpg)
+![](/images/demo/demo-landscape.jpg)
+
 
 ## A/B Testing on Email Marketing Campaign (Python, A/B Test, Time Series)
 
