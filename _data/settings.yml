@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Academics'
       url: '/'
     - title: 'Projects'
-      url: '/posts'
+      url: '/blog/'
     - title: 'CV'
-      url: '/cv'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
