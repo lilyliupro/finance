@@ -1,7 +1,7 @@
 ---
 title: 'Research Papers'
 subtitle: 'Causal inference, Machine learning, and Experimentation'
-description: My research focuses on causal inference, machine learning, and experimentation. I work on data structure models, including cross-sectional, panel, and network data. My current research combines machine learning algorithms with traditional econometric methods for estimating causal effects. Please click to see my research papers.
+description: My research focuses on causal inference, machine learning, and experimentation. I work on data structure models, including cross-sectional, panel, and network data. My current research combines machine learning algorithms with traditional econometric methods for estimating causal effects. Please click here to see my research papers.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 ![](/images/demo/demo-square.jpg)
