@@ -3,9 +3,6 @@ title: 'Research Papers'
 subtitle: 'Causal inference, Machine learning, and Experimentation'
 description: I am a Ph.D. in Econometrics and Quantitative Economics graduate from UCLA. My research is about applying machine learning techniques to economic studies. Specifically, I worked on different data structure models, including panel data, cross-sectional data, time series data, and network data. Because these data structure models in economic studies are becoming more and more complex, there is no existing econometric method to estimate them. My research is to incorporate the most recent machine learning techniques into traditional econometric methods and solve important, unanswered economic problems. I have published academic papers in top econometric journals. One example is to estimate average treatment effects for massively imbalanced data. This paper is motivated by a consulting case provided to Amazon. Amazon encountered difficulty developing price strategies because the manager did not know how to estimate price elasticity with massively imbalanced data. Existing machine learning algorithms, for example, logistic regression, do not consider the imbalancedness and induce bias in the estimation. I provided bias-corrected price elasticities for Amazon and helped them develop the best price strategies for commodities with different price elasticities. Please click here to see my PhD dissertation and more research papers.
 
-
-![image](https://user-images.githubusercontent.com/115938445/211353293-d88ab7d0-d746-4888-9b92-5bae3a24976a.png)
-
 featured_image: '/images/demo/demo-square.jpg'
 ---
 ![](/images/demo/demo-square.jpg)
